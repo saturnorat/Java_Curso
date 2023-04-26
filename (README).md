@@ -4,5 +4,5 @@
 
 
 Seja livre e dê uma bela olhada! 
-(Estou apenas aprendendo então é provável que talvez terão erros e práticas nem tanto eficientes, pois é uma coleção de conhecimentos sendo desenvolvidos)
+(Estou apenas aprendendo então é provável que terão práticas nem tanto eficientes, pois é uma coleção de conhecimentos sendo desenvolvidos)
 
