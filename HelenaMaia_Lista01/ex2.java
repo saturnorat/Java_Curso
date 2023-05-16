@@ -1,6 +1,6 @@
 /*
  * Recebe dois números, calcula e mostra a soma dos quadrados deles
- * 03/05/2023
+ * 10/05/2023
  * Helena Maia
  */
 // importa a biblioteca scanner
