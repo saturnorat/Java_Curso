@@ -7,7 +7,7 @@
 //importa a biblioteca scanner
 import java.util.Scanner;
 
-public class ex3{
+public class HelenaMaia_Exercicio03{
     public static void main(String[] args){
         //variaveis
         double valorR, valorD;
