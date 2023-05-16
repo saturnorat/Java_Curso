@@ -7,7 +7,7 @@
 //importa a biblioteca scanner
 import java.util.Scanner;
 
-public class ex5{
+public class HelenaMaia_Exercicio05{
     public static void main(String[] args) {
         //variaveis
         int idade;
