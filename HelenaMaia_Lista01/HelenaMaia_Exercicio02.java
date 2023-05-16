@@ -6,7 +6,7 @@
 // importa a biblioteca scanner
 import java.util.Scanner;
 
-public class ex2{
+public class HelenaMaia_Exercicio02{
     public static void main(String[] args){
         //variaveis
         double num1, num2, q1, q2, sum;
