@@ -7,7 +7,7 @@
 //importa a biblioteca scanner
 import java.util.Scanner;
 
-public class ex6{
+public class HelenaMaia_Exercicio06{
     public static void main(String[] args){
         //variaveis
         double raio, perimetro;
@@ -20,7 +20,7 @@ public class ex6{
         raio = leitor.nextDouble();
 
         //atribui valor a perimetro
-        perimetro = (2 * 3.14) * raio;
+        perimetro = (2 * (3.14)) * raio;
 
         System.out.println("O perímetro do círculo é: "+ perimetro);
     }
