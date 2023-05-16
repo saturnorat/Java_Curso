@@ -1,5 +1,5 @@
 /*
- * Algoritmo que determina o valor de números
+ * Algoritmo que determina o valor de números positivos, se o user digita 0 o programa para
  * 16/05/2023
  * Helena Maia
  */
