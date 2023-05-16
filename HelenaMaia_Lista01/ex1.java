@@ -1,24 +1,34 @@
+/*  Algoritmo que le 4 numeros e mostra o resultado da soma deles
+    08/05/2023
+    Helena Maia 
+*/
+//importa o scanner
 import java.util.Scanner;
 
-public class ex1{
+public class ex01{
     public static void main(String[] args) {
-        
+        //variaveis 
+        double n1, n2, n3, n4, result;
+        //inicio
+        n1 = n2 = n3 = n4 = result = 0;
+        //novo scanner
         Scanner leitor = new Scanner(System.in);
-
+        
+        //pede e lê os 4 números 
         System.out.print("Digite o primeiro número: ");
-        double numero1 = leitor.nextDouble();
+        n1 = leitor.nextDouble();
 
         System.out.print("Digite o segundo número: ");
-        double numero2 = leitor.nextDouble();
+        n2 = leitor.nextDouble();
 
         System.out.print("Digite o terceiro número: ");
-        double numero3 = leitor.nextDouble();
+        n3 = leitor.nextDouble();
 
         System.out.print("Digite o quarto número: ");
-        double numero4 = leitor.nextDouble();
+        n4 = leitor.nextDouble();
+        
+        result = n1 + n2 + n3 + n4;
 
-        double resultado = numero1 + numero2 + numero3 + numero4;
-
-        System.out.println("A soma dos números é: " + resultado);
+        System.out.println("A soma dos números é: " + result);
     }
 }
