@@ -1,5 +1,5 @@
 /*
- * algoritmo que soma todo os números cujo quadrado seja divisivel por 4
+ * algoritmo que soma todo os números cujo quadrado seja divisivel por 4, a variavel limite pode ser alterada para verificar o valor 
  * 29/05/23
  * Helena Maia
  */
@@ -7,7 +7,7 @@
 public class HelenaMaia_Exercicio01 {
     public static void main(String args[]) {
         // variaveis e inicio
-        int limite = 0;
+        int limite = 100;
         int sum = 0;
         int quad = 0;
 
